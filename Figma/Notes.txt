@@ -1,0 +1,132 @@
+key words:  
+ 🎨 1. Canvas
+ Analogy: The floor plan you design on
+ Explanation: The big open space where you place and arrange all your frames, components, 
+ and elements—just like laying out rooms on a blueprint.
+
+ 🧰 2. Toolbar 
+ Analogy: Your toolbox on the table
+ Explanation: Contains all the essential tools—move, frame, text, shape—just
+  like grabbing a measuring tape or pencil from your toolkit.
+
+ 🗂️ 3. Layers Panel
+ Analogy: A stack of blueprints
+ Explanation: Shows everything in your design from top to bottom, 
+ helping you select and organize items—like checking what’s on the 1st vs 2nd floor.
+
+ 📐 4. Properties Panel (Right Panel)
+ Analogy: Your customization menu
+ Explanation: Where you tweak colors, sizes, spacing—like adjusting the height of a table or the paint of a wall.
+
+ 📁 5. Assets Panel
+ Analogy: Your storage cabinet
+ Explanation: Houses all your reusable items like components and 
+ design systems—like grabbing decor or preset items from storage.
+
+ 📏 6. Rulers & Guides
+ Analogy: Measuring tape & chalk lines
+ Explanation: Helps align items precisely—just like ensuring a sofa is centered on a rug.
+
+ 🔍 7. Zoom Tool
+ Analogy: Looking through a magnifying glass
+ Explanation: Lets you zoom in/out on your design—like inspecting tile details or viewing the whole house from above.
+
+ 💾 8. Share Button
+ Analogy: Inviting others to view the blueprint
+ Explanation: Lets you collaborate and share your design with teammates or clients.
+
+ 💬 9. Comment Tool
+ Analogy: Sticky notes on your plans
+ Explanation: Allows others to leave feedback directly on the design—like leaving a note saying “move this window slightly.”
+
+ 🧱 10. Design/Prototype/Inspect Tabs
+ Analogy: Switching roles: Designer 👷 → Tester 🧪 → Developer 👨‍💻
+
+Basic terms
+ Design: Where you create (draw plans).
+
+ Prototype: Where you link and test (simulate walking through the house).
+
+ Inspect: Where developers get specs (builders reading measurements).
+
+Technical Terms 
+ 🏠 1. Frame
+ Analogy: A room in a house
+ Explanation: A frame is like a room that holds furniture (buttons, text, etc). 
+ It defines the space and boundaries for your design elements.
+
+ 🧱 2. Component 
+ Analogy: A template furniture set
+ Explanation: Like buying the same couch for every room. 
+ Components let you reuse designs like buttons or cards without remaking them each time.
+
+ 🪞 3. Instance
+ Analogy: A copy of that couch in another room
+ Explanation: When you place the same couch (component) in multiple rooms (frames), you’re using instances. 
+ Change the original couch, and all copies update too.
+
+ 🎨 4. Styles
+ Analogy: Wall paint and flooring presets
+ Explanation: Styles save color, text, or effects just like saved interior design schemes you can apply to any room.
+
+ 🔗 5. Prototype
+ Analogy: A walk-through demo of the house
+ Explanation: You walk through doors (buttons) to see how rooms (pages) connect—this is what prototyping does in Figma.
+
+ ✏️ 6. Vector
+ Analogy: Drawing your house blueprint with rulers
+ Explanation: Vectors are precise paths you draw. Like architectural plans, 
+ they can scale up or down without losing quality.
+
+ 🧭 7. Auto Layout
+ Analogy: Furniture that arranges itself automatically
+ Explanation: If you add a new chair, the room adjusts to make space. 
+ Auto layout moves and resizes elements for you.
+
+ 📚 8. Pages
+ Analogy: Different floors in a building
+ Explanation: Each page can hold separate designs—like the ground floor being the homepage and 
+ the second floor the dashboard.
+
+ 📦 9. Assets
+ Analogy: A storage room full of tools and decor
+ Explanation: Assets are your saved components, icons, and images ready to be used across your project.
+
+ 🧰 10. Plugins
+ Analogy: Extra tools you bring to decorate the house
+ Explanation: Plugins add new features to Figma, like color pickers or
+ image generators—tools to help you finish the job faster. 
+
+🖱️ Mouse Selection vs ✍️ Vector Selection 
+
+ 1. 🖱️ Mouse Selection: 
+       Analogy: 🧺 "Picking apples with a basket"
+       Explanation:
+         You're dragging a box (the basket) to collect multiple objects at once—like gathering apples from a tree.
+         It selects everything inside the dragged area (shapes, text, frames). 
+         Great for moving or grouping multiple elements quickly.
+
+ 2. ✍️ Vector Selection: 
+     Analogy: 🧵 "Sewing with a needle, stitch by stitch"
+     Explanation:
+     You're tweaking anchor points and paths precisely—like stitching fabric with careful needle movements.
+     Lets you adjust shapes by editing their individual points.
+     Perfect for fine-tuning curves, corners, and custom drawings.
+
+Auto layout: 🎛️ Auto Layout is like packing a suitcase 🧳
+ Imagine you're packing clothes into a suitcase:
+
+ 👕👖 You place your shirts and pants neatly one after another.
+
+ 🧩 You want them to be evenly spaced so nothing is squished.
+
+ 🧼 You might want some padding around the edges (so your soap doesn’t crush your clothes).
+
+ 🔄 If you add more items (like socks 🧦), the suitcase automatically grows taller to fit them.
+
+ 📏 If one shirt is bigger, it pushes others nicely instead of overlapping.
+ 
+ That’s Auto Layout in Figma:
+ You tell the "suitcase" (frame) how to organize the "clothes" (elements), 
+ and it does the layout work for you — spacing, resizing, alignment — all auto-magically! ✨
+
